@@ -1,5 +1,5 @@
 
-# 🪐 Anti-Gravity Bio (guns.lol Clone + Extra Features)
+# 🪐  (guns.lol Clone + Extra Features)
 
 A highly customizable, modern, and animated bio-link website built for creators, gamers, and developers. Think **guns.lol**, but packed with advanced widgets, deeper personalization, and premium fluid animations out of the box.
 
